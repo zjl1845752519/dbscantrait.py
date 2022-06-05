@@ -1,0 +1,15 @@
+#元组只可以查找，不可以修改！
+t1 = (10, 20, 30)
+print(t1)
+print(type(t1))
+t2 = (10)
+print(type(t2))
+t3 = (10,)
+print(type(t3))
+#查找元组
+print(t1[0])
+print(t1.index(20))
+print(t1.count(10))
+print(len(t1))
+t4 = ('aa', 'bb', ['cc', 'dd'])
+print(t4[2])

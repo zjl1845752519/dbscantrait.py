@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c68df21-f096-498a-b6fc-3d2ccef5f5e3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1xsxWRzpdVmAQmu1vpEmi6qOwkY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="text" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StudentManagerSystem" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StudentManagerSystem/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="text" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="F:/BaiduNetdiskDownload/课件资料V5.0解压密码：www.hoh0.com/课件资料V5.0/阶段1-Python核心编程/代码/10-面向对象版学员管理系统/StudentManagerSystem" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="F:/BaiduNetdiskDownload/课件资料V5.0解压密码：www.hoh0.com/课件资料V5.0/阶段1-Python核心编程/代码/10-面向对象版学员管理系统/StudentManagerSystem/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="text" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="managerSystem (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="text" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="F:/BaiduNetdiskDownload/课件资料V5.0解压密码：www.hoh0.com/课件资料V5.0/阶段1-Python核心编程/代码/10-面向对象版学员管理系统/StudentManagerSystem" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="F:/BaiduNetdiskDownload/课件资料V5.0解压密码：www.hoh0.com/课件资料V5.0/阶段1-Python核心编程/代码/10-面向对象版学员管理系统/StudentManagerSystem/managerSystem.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="managerSystem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="text" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StudentManagerSystem" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StudentManagerSystem/managerSystem.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="student" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="text" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StudentManagerSystem" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\12311\Desktop\py\practice\StudentManagerSystem\student.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.managerSystem (1)" />
+        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.student" />
+        <item itemvalue="Python.managerSystem" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c68df21-f096-498a-b6fc-3d2ccef5f5e3" name="Changes" comment="" />
+      <created>1631157628371</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631157628371</updated>
+      <workItem from="1631157629800" duration="69000" />
+      <workItem from="1631157790459" duration="26000" />
+      <workItem from="1631157850800" duration="16000" />
+      <workItem from="1631157880466" duration="1000" />
+      <workItem from="1631157941289" duration="5000" />
+      <workItem from="1633338784796" duration="9706000" />
+      <workItem from="1633483299137" duration="6300000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2074" y="343" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1633491055343">
+      <screen x="1440" y="4" width="1920" height="1040" />
+    </state>
+    <state x="2074" y="343" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860/1440.4.1920.1040@1440.4.1920.1040" timestamp="1633491055343" />
+    <state width="1867" height="264" key="GridCell.Tab.0.bottom" timestamp="1633492187050">
+      <screen x="1440" y="4" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="264" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.4.1920.1040@1440.4.1920.1040" timestamp="1633492187050" />
+    <state width="1867" height="264" key="GridCell.Tab.0.center" timestamp="1633492187050">
+      <screen x="1440" y="4" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="264" key="GridCell.Tab.0.center/0.0.1440.860/1440.4.1920.1040@1440.4.1920.1040" timestamp="1633492187050" />
+    <state width="1867" height="264" key="GridCell.Tab.0.left" timestamp="1633492187050">
+      <screen x="1440" y="4" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="264" key="GridCell.Tab.0.left/0.0.1440.860/1440.4.1920.1040@1440.4.1920.1040" timestamp="1633492187050" />
+    <state width="1867" height="264" key="GridCell.Tab.0.right" timestamp="1633492187050">
+      <screen x="1440" y="4" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="264" key="GridCell.Tab.0.right/0.0.1440.860/1440.4.1920.1040@1440.4.1920.1040" timestamp="1633492187050" />
+    <state x="1770" y="79" key="SettingsEditor" timestamp="1633338860323">
+      <screen x="1440" y="4" width="1920" height="1040" />
+    </state>
+    <state x="1770" y="79" key="SettingsEditor/0.0.1440.860/1440.4.1920.1040@1440.4.1920.1040" timestamp="1633338860323" />
+    <state x="1992" y="305" key="com.intellij.ide.util.TipDialog" timestamp="1633483313379">
+      <screen x="1440" y="4" width="1920" height="1040" />
+    </state>
+    <state x="1992" y="305" key="com.intellij.ide.util.TipDialog/0.0.1440.860/1440.4.1920.1040@1440.4.1920.1040" timestamp="1633483313379" />
+    <state x="1722" y="132" width="1398" height="712" key="dock-window-1" timestamp="1633490848037">
+      <screen x="1440" y="4" width="1920" height="1040" />
+    </state>
+    <state x="1722" y="132" width="1398" height="712" key="dock-window-1/0.0.1440.860/1440.4.1920.1040@1440.4.1920.1040" timestamp="1633490848037" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/practice$h3_.coverage" NAME="h3_模块的定位顺序 Coverage Results" MODIFIED="1633340366221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_模块_包" />
+    <SUITE FILE_PATH="coverage/practice$managerSystem.coverage" NAME="managerSystem Coverage Results" MODIFIED="1633490816958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StudentManagerSystem" />
+    <SUITE FILE_PATH="coverage/practice$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1633491305167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StudentManagerSystem" />
+    <SUITE FILE_PATH="coverage/practice$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1633491158707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/BaiduNetdiskDownload/课件资料V5.0解压密码：www.hoh0.com/课件资料V5.0/阶段1-Python核心编程/代码/10-面向对象版学员管理系统/StudentManagerSystem" />
+    <SUITE FILE_PATH="coverage/practice$.coverage" NAME="面向对象编程 Coverage Results" MODIFIED="1633347731725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_模块_包" />
+    <SUITE FILE_PATH="coverage/practice$h2_.coverage" NAME="h2_调用模块 Coverage Results" MODIFIED="1633339866127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_模块_包" />
+    <SUITE FILE_PATH="coverage/practice$h1_.coverage" NAME="h1_定义模块 Coverage Results" MODIFIED="1633338992980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_模块_包" />
+    <SUITE FILE_PATH="coverage/practice$managerSystem__1_.coverage" NAME="managerSystem (1) Coverage Results" MODIFIED="1633491242605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/BaiduNetdiskDownload/课件资料V5.0解压密码：www.hoh0.com/课件资料V5.0/阶段1-Python核心编程/代码/10-面向对象版学员管理系统/StudentManagerSystem" />
+    <SUITE FILE_PATH="coverage/practice$Student.coverage" NAME="Student Coverage Results" MODIFIED="1633491078694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StudentManagerSystem" />
+  </component>
+</project>

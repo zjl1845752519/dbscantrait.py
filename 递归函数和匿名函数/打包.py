@@ -1,0 +1,2 @@
+pip freeze> library.txt
+
